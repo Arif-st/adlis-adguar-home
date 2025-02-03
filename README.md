@@ -3,7 +3,7 @@
 This repository contains custom blocklists for AdGuard Home.
 
 ## Lists Available
-- **adblock.txt**: Blocks general ads.
+- **adblock.txt**: Blocks general ads app dll.
 - **malware.txt**: Blocks malicious domains.
 - **tracking.txt**: Blocks tracking domains.
 
@@ -12,6 +12,6 @@ This repository contains custom blocklists for AdGuard Home.
 2. Navigate to **Filters** > **DNS blocklists**.
 3. Add a new blocklist with the following URLs:
    - Adblock: `https://raw.githubusercontent.com/Arif-st/adlis-adguar-home/refs/heads/main/adblock.txt`
-   - Malware: `https://raw.githubusercontent.com/username/repo-name/main/malware.txt`
-   - Tracking: `https://raw.githubusercontent.com/username/repo-name/main/tracking.txt`
+   - Malware: `<will come soon>
+   - Tracking: `<will come soon>
 4. Save and apply the changes.
