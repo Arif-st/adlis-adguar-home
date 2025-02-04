@@ -1,4 +1,35 @@
+#         situs block ad youtube.
 ||youtube.com/api/stats/qoe?
 ||youtube.com/youtubei/v1/log_event?
 ||google.com/log?$redirect=nooptext
 ||youtube.com/api/stats/qoe?
+||ads.youtube.com^
+||androidyoutubetomp3.com^
+||api.youtu.qq.com^
+||cutyoutube.com^
+||fcmatch.youtube.com^
+||googlesyndication.com^
+||youtube.com^/get_video_info
+||youtube.com^/ad_feedback
+||googlevideo.com^
+||youtube.com^
+||youtube-nocookie.com^
+||youtube.googleapis.com^
+||ads.youtube.com^
+||ad.doubleclick.net^
+||pubads.g.doubleclick.net^
+||partner.googleadservices.com^
+||pagead2.googlesyndication.com^
+||google.com^
+||youtube.com^
+||ytimg.com^
+||youtube.com^
+||s.ytimg.com^
+||youtube.com^/get_video_info
+||youtube.com^/ad_feedback
+||yt3.ggpht.com^
+||googlesyndication.com^
+||youtube.com^/get_video_info
+||youtube.com^/ad_feedback
+#       pelacak & ad block detik
+||analytic20.detik.com^
