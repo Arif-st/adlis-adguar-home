@@ -14,6 +14,6 @@ This repository contains custom blocklists for AdGuard Home.
 3. Add a new blocklist with the following URLs:
    - Adblock: `https://raw.githubusercontent.com/Arif-st/adlis-adguar-home/refs/heads/main/adblock.txt`
    - Malware: `will come soon`
-   - Tracking: `will come soon`
+   - Tracking: `https://raw.githubusercontent.com/Arif-st/adlis-adguar-home/refs/heads/main/traker.txt`
    - Judol: `https://raw.githubusercontent.com/Arif-st/adlis-adguar-home/refs/heads/main/judol.txt`
 4. Save and apply the changes.
