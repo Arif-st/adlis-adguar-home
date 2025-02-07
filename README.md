@@ -13,6 +13,7 @@ This repository contains custom blocklists for AdGuard Home.
 2. Navigate to **Filters** > **DNS blocklists**.
 3. Add a new blocklist with the following URLs:
    - Adblock: `https://raw.githubusercontent.com/Arif-st/adlis-adguar-home/refs/heads/main/adblock.txt`
+   - ads 2: `https://raw.githubusercontent.com/Arif-st/adlis-adguar-home/refs/heads/main/ads.txt`
    - Malware: `will come soon`
    - Tracking: `https://raw.githubusercontent.com/Arif-st/adlis-adguar-home/refs/heads/main/traker.txt`
    - Judol: `https://raw.githubusercontent.com/Arif-st/adlis-adguar-home/refs/heads/main/judol.txt`
